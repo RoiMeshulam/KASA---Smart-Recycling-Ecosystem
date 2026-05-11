@@ -1,10 +1,10 @@
-# ♻️ Kasa | [cite_start]Smart Recycling Ecosystem [cite: 1]
+# ♻️ Kasa |Smart Recycling Ecosystem
 
 ![Kasa Architecture](./KasaArch.png) 
 > **Architecture Overview:** A decentralized cloud-native system bridging physical edge interfaces with real-time logic and financial services.
 
 ### 🚀 Transforming Bottle Recycling into a Seamless Digital Experience
-[cite_start]Kasa is a distributed, cloud-based system designed to revolutionize the bottle recycling industry in Israel[cite: 5]. [cite_start]By integrating advanced edge interfaces with real-time communication, the project replaces outdated paper vouchers with secure, instant, and transparent digital credits[cite: 6].
+[cite_start] Kasa is a distributed, cloud-based system designed to revolutionize the bottle recycling industry in Israel[cite: 5]. [cite_start]By integrating advanced edge interfaces with real-time communication, the project replaces outdated paper vouchers with secure, instant, and transparent digital credits.
 
 ## 💡 The Vision
 [cite_start]The recycling process should be as easy as "Scan & Go"[cite: 8]. [cite_start]Kasa creates a continuous, secure connection (Handshake) between the user and the recycling machine interface, ensuring instant gratification through immediate digital credit[cite: 8].
