@@ -77,7 +77,3 @@ The system is currently **Production Ready** , having successfully passed full M
 ---
 
 Developed by **Roi Meshulam** | May 2026 
-
-```
-
-```
