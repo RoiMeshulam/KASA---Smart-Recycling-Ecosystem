@@ -58,17 +58,17 @@ io.on("connection", (socket) => {
 
 | Layer | Technologies |
 | :--- | :--- |
-| 📱 **Frontend** | [cite_start]React Native (Expo) [cite: 14][cite_start], TypeScript [cite: 13][cite_start], Context API, Tanstack Query [cite: 28] |
-| ⚙️ **Backend** | [cite_start]Node.js (TypeScript) [cite: 13][cite_start], Express, Socket.io [cite: 13][cite_start], JWT Authentication [cite: 18] |
-| ☁️ **Cloud & DB** | [cite_start]GCP (Cloud Run [cite: 13][cite_start], Secret Manager [cite: 17][cite_start]), Firestore [cite: 14][cite_start], Firebase RTDB [cite: 14] |
-| 🚀 **DevOps** | [cite_start]GitHub Actions [cite: 14][cite_start], Docker [cite: 13][cite_start], Google Cloud Build [cite: 14] |
+| 📱 **Frontend** | React Native (Expo), TypeScript, Context API, Tanstack Query |
+| ⚙️ **Backend** | Node.js (TypeScript), Express, Socket.io, JWT Authentication |
+| ☁️ **Cloud & DB** | GCP (Cloud Run, Secret Manager, Firestore, Firebase RTDB |
+| 🚀 **DevOps** | GitHub Actions, Docker, Google Cloud Build |
 
 ## 📊 Engineering Excellence & Optimization
 
-* [cite_start]🚀 **Cold Start Mitigation:** Implemented a **Warm-up Call** mechanism [cite: 21] [cite_start]to wake the Cloud Run instance upon app launch[cite: 22], ensuring sub-second response times for the initial scan.
-* [cite_start]🔄 **System Resilience:** Developed a **60-second Grace Period** for automatic session recovery[cite: 28], preventing data loss during network fluctuations.
-* [cite_start]📸 **Hardware Resilience:** Integrated specialized hooks to handle hardware-specific camera issues (e.g., Samsung API) via a managed **Hard Restart** flow[cite: 28].
-* [cite_start]💰 **Precision Engineering:** Strictly using **Integer Cents** for all currency operations [cite: 11] [cite_start]to eliminate floating-point precision issues[cite: 24].
+* 🚀 **Cold Start Mitigation:** Implemented a **Warm-up Call** mechanism to wake the Cloud Run instance upon app launch, ensuring sub-second response times for the initial scan.
+* 🔄 **System Resilience:** Developed a **60-second Grace Period** for automatic session recovery, preventing data loss during network fluctuations.
+* 📸 **Hardware Resilience:** Integrated specialized hooks to handle hardware-specific camera issues (e.g., Samsung API) via a managed **Hard Restart** flow.
+* 💰 **Precision Engineering:** Strictly using **Integer Cents** for all currency operations to eliminate floating-point precision issues.
 
 ## 📈 Project Status
 
